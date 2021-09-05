@@ -1,0 +1,11 @@
+.main {
+	display: flex;
+	justify-content: center;
+	height: 100%;
+}
+
+.main-content {
+	flex: 1 1 800px;
+	padding: 60px 40px;
+	overflow-y: auto;
+}

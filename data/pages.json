@@ -1,0 +1,20 @@
+{
+    "vaporeon": {
+        "title": "Did you know...",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "that in terms of water type pokemon Vaporeon is the most cool"
+            }
+        ]
+    },
+    "sylveon": {
+        "title": "The gentleman's choice",
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "blab"
+            }
+        ]
+    }
+}

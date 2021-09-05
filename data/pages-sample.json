@@ -1,0 +1,42 @@
+[
+    {
+        "pokemon": "snorlax",
+        "title": "Did you know...",
+        "images": [
+            "beach",
+            "berry"
+        ],
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "that he is lazy as fuck"
+            }
+        ]
+    },
+    {
+        "pokemon": "gardevoir",
+        "title": "The gentleman's choice",
+        "images": [
+            "fashionable"
+        ],
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "blab"
+            }
+        ]
+    },
+    {
+        "pokemon": "absol",
+        "title": "Cutest bae",
+        "images": [
+            "fashionable"
+        ],
+        "content": [
+            {
+                "type": "paragraph",
+                "text": "blab"
+            }
+        ]
+    }
+]

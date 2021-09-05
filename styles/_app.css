@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@700&display=swap');
+
+/* CSS reset */
+body {
+	margin: 0;
+}
+
+#root {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	font-family: 'Exo 2', "sans-the-skeleton";
+	background-color: #000;
+	color: white;
+}
+
+a {
+	color: rgb(12, 201, 201);
+	text-decoration: none;
+	transition: .3s;
+}
+
+
+a:hover {
+	color: rgb(35, 228, 228);
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    margin: 0;
+    /* letter-spacing: 2px; */
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 34px;
+}
+
+b, strong {
+    font-weight: 600;
+}
+
+button {
+    border: none;
+}
+
+input {
+    color: inherit;
+    background: transparent;
+    border: none;
+    padding: 0;
+    margin: 0;
+    text-overflow: ellipsis;
+}
+
+/* The only way to live */
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	outline: none;
+}
